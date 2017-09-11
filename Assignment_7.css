@@ -1,0 +1,16 @@
+@font-face {
+  font-family: myFirstFont;
+  src: url(GiveYouWhatYouLike.otf)
+}
+h1 {
+  color: #FFFFFF;
+  background-color: #AA4040;
+  width: 300px;
+  margin-left: 300px;
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px #FF9999;
+  text-align: center;
+  text-shadow: 1px 1px 2px #000000;
+  transform: scale(2);
+  font-family: myFirstFont, arial;
+}
